@@ -60,7 +60,7 @@ I'm an aspiring full-stack developer and content creator building my life around
 
 ### 📊 Stats
 
-![Duzzenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidanukam&show_icons=true&theme=aura)
+![Duzzenn's GitHub stats](https://github-readme-stats-flame-five-52.vercel.app/api?username=davidanukam&show_icons=true&theme=aura)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=davidanukam&theme=gruvbox&border_radius=4.5) -->
 
