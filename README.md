@@ -2,7 +2,7 @@
 
 **`Software Enthusiast (Developer/Creator/Student)`**
 
-I'm an aspiring full-stack developer and content creator building my life around code and all things tech. Each of my coding projects are built from the ground up, but have recently been made by leveraging AI. I try to make interesting YouTube videos about my journey and publish them on my YouTube channel [Duzzenn][youtube]. You Should Go Check it Out!
+I'm an aspiring python developer and content creator building my life around code and all things tech. Each of my coding projects are built from the ground up, but have recently been made by leveraging AI. I try to make interesting YouTube videos about my journey and publish them on my YouTube channel [Duzzenn][youtube]. You Should Go Check it Out!
 
    <p align="left">
       <a href="https://www.youtube.com/@Duzzenn?sub_confirmation=1">
