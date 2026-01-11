@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Duzzenn!
+# 👋 Hi, I'm David Anukam!
 
 **`Software Enthusiast (Developer/Creator/Student)`**
 
