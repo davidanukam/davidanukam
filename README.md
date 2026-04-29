@@ -9,9 +9,11 @@
 **`Developer, Creator & Student`**
 
 <ul>
-   <li>YouTube: <a href="https://youtube.com/@Duzzenn" target="_blank">Duzzenn</a></li>
-   <li>LinkedIn: <a href="https://www.linkedin.com/in/david-anukam" target="_blank">David Anukam</a></li>
-   <li>Resume: <a href="#" target="_blank">Download</a></li>
+   <li>🔴 <a href="https://youtube.com/@Duzzenn" target="_blank">YouTube</a></li>
+   <li>🔵 <a href="https://www.linkedin.com/in/david-anukam" target="_blank">LinkedIn</a></li>
+   <li>🟡 <a href="https://www.instagram.com/david_anukam" target="_blank">Instagram</a></li>
+   <li>🟣 <a href="https://www.twitch.tv/duzzenn" target="_blank">Twitch</a></li>
+   <li>📝 <a href="#" target="_blank">Resume</a></li>
 </ul>
 
    <p align="left">
@@ -88,8 +90,8 @@
 ### 📊 Stats
 
 <p align="center">
+   <!-- <img src="https://streak-stats.demolab.com?user=davidanukam&theme=aura&border_radius=4.5" alt="David's GitHub Streak" /> -->
    <img src="https://github-readme-stats-kappa-six-41.vercel.app/api?username=davidanukam&show_icons=true&theme=aura" alt="David's GitHub Stats" />
-   <img src="https://streak-stats.demolab.com?user=davidanukam&theme=aura&border_radius=4.5" alt="David's GitHub Streak" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&theme=aura" alt="Davids's Top Languages" />
 </p>
 
