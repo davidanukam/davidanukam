@@ -31,11 +31,11 @@
 
 ## Experience
 <ul>
-   <li>1</li>
-   <li>2</li>
-   <li>3</li>
-   <li>4</li>
-   <li>5</li>
+   <li>Full-Stack Development (Next.js, React Native, RESTful APIs, responsive UI/UX)</li>
+   <li>Backend Engineering (FastAPI, Spring Boot, PostgreSQL, database modeling, authentication systems)</li>
+   <li>Developer Tools & Automation (Python scripting, Docker, CI/CD pipelines, GitHub Actions)</li>
+   <li>AI & Data Integration (PyTorch, TensorFlow, YouTube Data API, RapidAPI, video AI webhooks)</li>
+   <li>Community & Ed-Tech Systems (STEM curriculum design, event platforms, donation/payment integration)</li>
 </ul>
 
 ---
