@@ -54,6 +54,7 @@
   <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:20px;"/>
   <img alt="TailwindCSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:20px;"/>
   <img alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:20px;"/>
+  <img alt="Sqlite" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:20px;"/>
 </p>
 
 ### Frameworks & Libraries 📚
@@ -61,8 +62,11 @@
 <p align="center">
   <img alt="NextJS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:20px;"/>
   <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;"/>
+  <img alt="Expo" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" style="padding-right:20px;"/>
+  <img alt="VueJS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:20px;"/>
   <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;"/>
   <img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:120px;"/>
+  <img alt="FastAPI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:120px;"/>
 </p>
 
 ### IDEs & Tools 🧑‍💻
@@ -71,6 +75,8 @@
   <img alt="VSCode" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;"/>
   <img alt="Jupyter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:20px;"/>
   <img alt="Neovim" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" style="padding-right:20px;"/>
+  <img alt="AWS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:20px;"/>
+  <img alt="Supabase" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:20px;"/>
   <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;"/>
   <img alt="Claude" width="45px" src="https://private-user-images.githubusercontent.com/144395446/415876858-e01431ed-89d0-4c83-bd34-2c6f34e6b5cf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MzIzMzgsIm5iZiI6MTc3NzQzMjAzOCwicGF0aCI6Ii8xNDQzOTU0NDYvNDE1ODc2ODU4LWUwMTQzMWVkLTg5ZDAtNGM4My1iZDM0LTJjNmYzNGU2YjVjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyOVQwMzA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZjgxY2I3ZGE1ZjNkNmNkNTNhMzNhMmIyZGRiZTg4YWQ4MzBiMjFhNTQ5MWRjMDE0NjYyMjIwOGJjYTU0NWZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.pKhZF8a5wOBkk3vhc2iYdufITZfZarQFQ1aDsxs22y8" style="padding-right:20px;"/>
    <img alt="OpenAI" width="45px" src="https://private-user-images.githubusercontent.com/144395446/415876780-1456038e-4387-48f1-8b00-88f593b31d5b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MzIzMzgsIm5iZiI6MTc3NzQzMjAzOCwicGF0aCI6Ii8xNDQzOTU0NDYvNDE1ODc2NzgwLTE0NTYwMzhlLTQzODctNDhmMS04YjAwLTg4ZjU5M2IzMWQ1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyOVQwMzA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTUwYzliYzU4ZTg5MjkyNjczMzdkODAxNjc3YmY1NjNhMjRjNWE3OTcxNGFkNjJhMWFkNmRiMmEzYTdlZTJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.LI1rq-eGi5Q4KPhUWBbqZTvMajvOHHM0CXGpNX9bHRI" style="padding-right:20px;"/>
