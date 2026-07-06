@@ -11,9 +11,22 @@
 
 </div>
 
+<div align="center">
+   
 <p align="center">
-   CS + SWE @ UWO | Backend + Simulation Engineer | AI/ML Enthusiast
+   CS + SWE @ <strong>UWO</strong> | Backend + Simulation Engineer | AI/ML Enthusiast
 </p>
+
+---
+
+[![Resume](https://shields.io/badge/Resume-white?style=for-the-badge)](https://davidanukam.vercel.app/David_s_CS_Resume.pdf)
+[![Portfolio](https://shields.io/badge/Portfolio-black?style=for-the-badge)](https://davidanukam.vercel.app)
+[![YouTube](https://shields.io/badge/YouTube-red?style=for-the-badge)](https://youtube.com/@Duzzenn)
+[![LinkedIn](https://shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/david-anukam)
+[![Instagram](https://shields.io/badge/Instagram-hotpink?style=for-the-badge)](https://www.instagram.com/david_anukam)
+[![Twitch](https://shields.io/badge/Twitch-indigo?style=for-the-badge)](https://www.twitch.tv/duzzenn)
+
+</div>
 
 ---
 
@@ -31,17 +44,6 @@ visitor@github:~$ cat ./about_me.txt
 
 ---
 
-<ul>
-   <li>🔴 <a href="https://youtube.com/@Duzzenn" target="_blank">YouTube</a></li>
-   <li>🔵 <a href="https://www.linkedin.com/in/david-anukam" target="_blank">LinkedIn</a></li>
-   <li>🟡 <a href="https://www.instagram.com/david_anukam" target="_blank">Instagram</a></li>
-   <li>🟣 <a href="https://www.twitch.tv/duzzenn" target="_blank">Twitch</a></li>
-   <li>🌐 <a href="https://davidanukam.vercel.app" target="_blank">Portfolio</a></li>
-   <!-- <li>📝 <a href="#" target="_blank">Resume</a></li> -->
-</ul>
-
----
-
 ## `> Experience`
 <ul>
    <li>Full-Stack Development (Next.js, React Native, RESTful APIs, responsive UI/UX)</li>
@@ -55,44 +57,17 @@ visitor@github:~$ cat ./about_me.txt
 
 ## `> tech.stack`
 
-<p align="center">
-  <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;"/>
-  <img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;"/>
-  <img alt="C" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:20px;"/>
-  <img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
-  <img alt="Rust" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:20px;"/>
-  <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;"/>
-  <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:20px;"/>
-  <img alt="TailwindCSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:20px;"/>
-  <img alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:20px;"/>
-  <img alt="Sqlite" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:20px;"/>
-</p>
+**Languages**
 
-### Frameworks & Libraries 📚
+[![SkillIcons](https://skillicons.dev/icons?i=python,java,c,cpp,rust,js,ts,tailwind,postgresql,sqlite,html,css)](https://skillicons.dev)
 
-<p align="center">
-  <img alt="NextJS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:20px;"/>
-  <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;"/>
-  <img alt="Expo" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" style="padding-right:20px;"/>
-  <img alt="VueJS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:20px;"/>
-  <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;"/>
-  <img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:120px;"/>
-  <img alt="FastAPI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:120px;"/>
-</p>
+**Frameworks & Libraries**
 
-### IDEs & Tools 🧑‍💻
+[![SkillIcons](https://skillicons.dev/icons?i=nextjs,react,vue,git,github,fastapi,expo)](https://skillicons.dev)
 
-<p align="center">
-  <img alt="VSCode" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;"/>
-  <img alt="Jupyter" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:20px;"/>
-  <img alt="Neovim" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" style="padding-right:20px;"/>
-  <img alt="AWS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:20px;"/>
-  <img alt="Supabase" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:20px;"/>
-  <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;"/>
-  <img alt="Claude" width="45px" src="https://private-user-images.githubusercontent.com/144395446/415876858-e01431ed-89d0-4c83-bd34-2c6f34e6b5cf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MzIzMzgsIm5iZiI6MTc3NzQzMjAzOCwicGF0aCI6Ii8xNDQzOTU0NDYvNDE1ODc2ODU4LWUwMTQzMWVkLTg5ZDAtNGM4My1iZDM0LTJjNmYzNGU2YjVjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyOVQwMzA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZjgxY2I3ZGE1ZjNkNmNkNTNhMzNhMmIyZGRiZTg4YWQ4MzBiMjFhNTQ5MWRjMDE0NjYyMjIwOGJjYTU0NWZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.pKhZF8a5wOBkk3vhc2iYdufITZfZarQFQ1aDsxs22y8" style="padding-right:20px;"/>
-   <img alt="OpenAI" width="45px" src="https://private-user-images.githubusercontent.com/144395446/415876780-1456038e-4387-48f1-8b00-88f593b31d5b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MzIzMzgsIm5iZiI6MTc3NzQzMjAzOCwicGF0aCI6Ii8xNDQzOTU0NDYvNDE1ODc2NzgwLTE0NTYwMzhlLTQzODctNDhmMS04YjAwLTg4ZjU5M2IzMWQ1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyOVQwMzA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTUwYzliYzU4ZTg5MjkyNjczMzdkODAxNjc3YmY1NjNhMjRjNWE3OTcxNGFkNjJhMWFkNmRiMmEzYTdlZTJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.LI1rq-eGi5Q4KPhUWBbqZTvMajvOHHM0CXGpNX9bHRI" style="padding-right:20px;"/>
-  <img alt="Ollama" width="45px" src="https://private-user-images.githubusercontent.com/144395446/415876900-1dd6d582-f9f4-40bf-94bf-4ac6d120269c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0MzIzMzgsIm5iZiI6MTc3NzQzMjAzOCwicGF0aCI6Ii8xNDQzOTU0NDYvNDE1ODc2OTAwLTFkZDZkNTgyLWY5ZjQtNDBiZi05NGJmLTRhYzZkMTIwMjY5Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyOVQwMzA3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzY1NmY3YjE4Y2ZkYjVkMGY0YTA4ZTBiNzhlM2ZhNTkzMWE4ODNmYjk2OTUyOGFmMDJkNzM5ODRmMGNmZDY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.zqhTZTTBRoUrluCkATBL1dzBUQ_LjHZ7TGGDMCb2cM8" style="padding-right:20px;"/>
-</p>
+**IDEs & Tools**
+
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,neovim,aws,vercel,supabase,docker,claude,openai,ollmaa,yolo)](https://skillicons.dev)
 
 <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
 <!-- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> -->
@@ -141,7 +116,7 @@ visitor@github:~$ cat ./about_me.txt
 ---
 
 <div align="center">
-  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+  <sub><code>// building everyday · one commit at a time</code></sub>
 </div>
 
 [youtube]: https://youtube.com/@Duzzenn
