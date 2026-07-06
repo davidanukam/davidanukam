@@ -106,22 +106,18 @@ visitor@github:~$ cat ./about_me.txt
 
 ## `> github.stats`
 
-<p align="center">
+<!-- <p align="center"> -->
    <!-- <img src="https://streak-stats.demolab.com?user=davidanukam&theme=aura&border_radius=4.5" alt="David's GitHub Streak" /> -->
-   <img src="https://github-readme-stats-kappa-six-41.vercel.app/api?username=davidanukam&show_icons=true&theme=aura" alt="David's GitHub Stats" />
+   <!-- <img src="https://github-readme-stats-kappa-six-41.vercel.app/api?username=davidanukam&show_icons=true&theme=aura" alt="David's GitHub Stats" /> -->
    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&theme=aura" alt="Davids's Top Languages" /> -->
-</p>
+<!-- </p> -->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=davidanukam&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidanukam&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" /> -->
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davidanukam)](https://github-readme-streak-stats-sable-two-53.vercel.app)
+[![GitHub Streak](https://github-readme-streak-stats-sable-two-53.vercel.app/?user=davidanukam&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00CC66&currStreakLabel=00FF88&sideLabels=C8FCD8&dates=4A7A5A&stroke=1A2A1A&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://https://github-readme-streak-stats-sable-two-53.vercel.app/)
 
 </div>
 
@@ -131,7 +127,7 @@ visitor@github:~$ cat ./about_me.txt
 
 <div align="center">
 
-[![Mehar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidanukam&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![David Anukam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidanukam&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
