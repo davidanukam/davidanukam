@@ -121,11 +121,32 @@ visitor@github:~$ cat ./about_me.txt
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davidanukam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davidanukam)](https://github-readme-streak-stats-sable-two-53.vercel.app)
 
 </div>
 
 ---
+
+## `> activity.graph`
+
+<div align="center">
+
+[![Mehar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidanukam&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-davidanukam-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/davidanukam)
+![Visitors](https://komarev.com/ghpvc/?username=davidanukam&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+</div>
 
 [youtube]: https://youtube.com/@Duzzenn
 [linkedin]: https://www.linkedin.com/in/david-anukam
