@@ -1,35 +1,48 @@
-<h1 align="center">David Anukam</h1>
+<div align="center">
+
+```
+ ███╗   ███╗███████╗██╗  ██╗ █████╗ ██████╗      █████╗ ██╗  ██╗██████╗  █████╗ ██████╗ 
+ ████╗ ████║██╔════╝██║  ██║██╔══██╗██╔══██╗    ██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+ ██╔████╔██║█████╗  ███████║███████║██████╔╝    ███████║█████╔╝ ██████╔╝███████║██████╔╝
+ ██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██╔══██╗    ██╔══██║██╔═██╗ ██╔══██╗██╔══██║██╔══██╗
+ ██║ ╚═╝ ██║███████╗██║  ██║██║  ██║██║  ██║    ██║  ██║██║  ██╗██████╔╝██║  ██║██║  ██║
+ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+</div>
 
 <p align="center">
-   CS + SWE @ UWO | Simulation Engineer In-Training | AI/ML Enthusiast
+   CS + SWE @ UWO | Backend + Simulation Engineer | AI/ML Enthusiast
 </p>
 
 ---
 
-**`Developer, Creator & Student`**
+```bash
+visitor@github:~$ cat ./about_me.txt
+
+  Name    : David Anukam
+  Handle  : davidanukam
+  Bio     : Developer, Creator, Student
+  Uni     : Western Ontario  
+  Focus   : Backend · Simulation · AI/ML · Computer Vision
+  Status  : ▰▰▰▰▰▰▰▰▰▱  Learning, Building, Breaking
+  Collab  : OPEN ALL DAY, EVERYDAY
+```
+
+---
 
 <ul>
    <li>🔴 <a href="https://youtube.com/@Duzzenn" target="_blank">YouTube</a></li>
    <li>🔵 <a href="https://www.linkedin.com/in/david-anukam" target="_blank">LinkedIn</a></li>
    <li>🟡 <a href="https://www.instagram.com/david_anukam" target="_blank">Instagram</a></li>
    <li>🟣 <a href="https://www.twitch.tv/duzzenn" target="_blank">Twitch</a></li>
-   <li>📝 <a href="#" target="_blank">Resume</a></li>
+   <li>🌐 <a href="https://davidanukam.vercel.app" target="_blank">Portfolio</a></li>
+   <!-- <li>📝 <a href="#" target="_blank">Resume</a></li> -->
 </ul>
-
-   <p align="left">
-      <a href="https://www.youtube.com/@Duzzenn?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkQw6cgR_MU3-uBhP90PYMg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@Duzzenn">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCkQw6cgR_MU3-uBhP90PYMg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/davidanukam?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/davidanukam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/davidanukam?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/davidanukam?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
-## Experience
+## `> Experience`
 <ul>
    <li>Full-Stack Development (Next.js, React Native, RESTful APIs, responsive UI/UX)</li>
    <li>Backend Engineering (FastAPI, Spring Boot, PostgreSQL, database modeling, authentication systems)</li>
@@ -40,9 +53,7 @@
 
 ---
 
-## Skills and Tech Stack
-
-### Languages 💻
+## `> tech.stack`
 
 <p align="center">
   <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;"/>
@@ -93,16 +104,29 @@
 
 ---
 
-### 📊 Stats
+## `> github.stats`
 
 <p align="center">
    <!-- <img src="https://streak-stats.demolab.com?user=davidanukam&theme=aura&border_radius=4.5" alt="David's GitHub Streak" /> -->
    <img src="https://github-readme-stats-kappa-six-41.vercel.app/api?username=davidanukam&show_icons=true&theme=aura" alt="David's GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&theme=aura" alt="Davids's Top Languages" />
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&theme=aura" alt="Davids's Top Languages" /> -->
 </p>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=davidanukam&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidanukam&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=davidanukam&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 [youtube]: https://youtube.com/@Duzzenn
 [linkedin]: https://www.linkedin.com/in/david-anukam
-<!-- [website]: (Coming Super Soon) -->
+[portfolio]: https://davidanukam.vercel.app
